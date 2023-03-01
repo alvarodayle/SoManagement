@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SoManagement">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DAYLES\SQLEXPRESS:DAYLES\prost">
+          <Created>2023-03-01T19:10:20.9941154-03:00</Created>
+          <Type>SQL</Type>
+          <Server>DAYLES\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="0.0 Sobre.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0.0 Sobre.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1.0 Criação do Banco e das Tabelas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAYLES\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAYLES\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1.0 Criação do Banco e das Tabelas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2.0 Adição de Informações Gerais.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAYLES\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAYLES\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>2.0 Adição de Informações Gerais.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3.0 Inserindo Funcionarios.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAYLES\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAYLES\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>3.0 Inserindo Funcionarios.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
