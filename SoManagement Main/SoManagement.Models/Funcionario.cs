@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SoManagement.Models
 {
-    internal class Funcionario
+    public sealed class Funcionario
     {
     }
 }

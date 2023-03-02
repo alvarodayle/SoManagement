@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SoManagement.Models
 {
-    internal class MainModel
+    public abstract class MainModel
     {
     }
 }
